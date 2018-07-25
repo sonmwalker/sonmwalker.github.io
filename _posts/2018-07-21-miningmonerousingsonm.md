@@ -5,7 +5,18 @@ key: 20180721
 tags: mining, XMR, Monero
 ---
 
-If you see this page, that means you have setup your site. enjoy :ghost: :ghost: :ghost:!
+Hello everyone! In this tutorial, sonmwalker will show you how to mine XMR (Monero) using the SONM platform in VirtualBox environment.
+
+### Preparations
+
+Install  Ubuntu 16.04 using VirtualBox
+
+
+### Install SONM platform in Ubuntu 16.04
+
+
+
+### Mining Monero using SONM 
 
 <!--more-->
 
