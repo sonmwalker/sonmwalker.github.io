@@ -1,7 +1,8 @@
 ---
-title: Welcome
-key: 
-tags: welcome
+title: Mining XMR(Monero) using SONM platform
+layout: article
+key: 20180721
+tags: mining, XMR, Monero
 ---
 
 If you see this page, that means you have setup your site. enjoy :ghost: :ghost: :ghost:!
