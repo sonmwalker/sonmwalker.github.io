@@ -1,0 +1,9 @@
+container:
+  # Image name to start on worker, required param.
+  image: sonm/eth-claymore:latest
+  # Env variables that will be passed to container on start.
+  env:
+    WALLET: # Put ETHADDRESS2 here
+    # optional params
+    # POOL: ethereum mining pool, default: "eth-eu1.nanopool.org:9999"
+    # WORKER: my_sonm_worker
