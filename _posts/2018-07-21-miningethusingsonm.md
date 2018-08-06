@@ -57,7 +57,7 @@ WORKER - worker name, default: "sonm_worker"
 EMAIL  - your email, optional
 ```
 
-Before run a task, customers need to create a file called [`task.yaml`](./task.yaml){:target=_blank} to start the mining:
+Before run a task, customers need to create a file called [`task.yaml`](./src/task.yaml){:target=_blank} to start the mining:
 
 The file `task.yaml` reads
 ```
