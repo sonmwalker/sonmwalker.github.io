@@ -9,6 +9,8 @@ Hello everyone! In this tutorial, sonmwalker will show the basic operations in S
 
 ## How to install SONM
 
+<!--more-->
+
 ### As a consumer
 
 `sudo bash -c "$(curl -s https://raw.githubusercontent.com/sonm-io/autodeploy/master/sonm-auto-deploy-consumer.sh)"`
