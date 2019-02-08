@@ -5,7 +5,8 @@ key: 20181212
 tags: SONM, Tutorial
 ---
 
-Hello everyone! In this tutorial, sonmwalker will show how 
+Hello everyone! In this tutorial, sonmwalker will show the basic operations in SONM platform.
+
 ## How to install SONM
 
 ### As a consumer
