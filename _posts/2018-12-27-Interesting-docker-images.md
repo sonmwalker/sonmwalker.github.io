@@ -354,5 +354,9 @@ https://hub.docker.com/r/fanvinga/docker-zmirror
 
 https://github.com/aploium/zmirror
 
+
 - you2php
 https://you2php.github.io/download.html
+
+provider: ramnode, vultr, vast.ai, paperspace, sonm 
+
