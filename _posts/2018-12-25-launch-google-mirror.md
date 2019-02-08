@@ -11,7 +11,7 @@ Hello everyone! In this tutorial, sonmwalker will show how to launch a google mi
 
 ### 1. [Install SONM platform for customers and get a deal](https://sonmwalker.github.io/2018/12/12/sonm-intro.html){:target=_blank}
 
->>
+>
 - In the bid order, the `income` flag should be turned on.
 - Consumer’s wallet should replaced by the one which has SONM tokens.
 
