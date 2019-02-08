@@ -16,6 +16,11 @@ Hello everyone! In this tutorial, sonmwalker will show the basic operations in S
 `sudo bash -c "$(curl -s https://raw.githubusercontent.com/sonm-io/autodeploy/master/sonm-auto-deploy-consumer.sh)"`
 
 Consumer's wallet should replaced by the one which has SONM tokens.
+1. Replace the key (ETH address) in the keystore /etc/sonm/sonm-keystore.
+2. sudo nano /etc/sonm/node-default.yaml look for the "pass_phrase" - replace with your password.
+3. sonmcli login <your address>
+4. sudo service sonm-node restart
+  
 
 ### As a supplier
 
