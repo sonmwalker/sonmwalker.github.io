@@ -1,3 +1,11 @@
+---
+title: How to use SONM platform
+layout: article
+key: 20181212
+tags: SONM, Tutorial
+---
+
+Hello everyone! In this tutorial, sonmwalker will show how 
 ## How to install SONM
 
 ### As a consumer
