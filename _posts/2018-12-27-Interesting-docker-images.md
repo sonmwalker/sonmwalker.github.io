@@ -346,3 +346,13 @@ docker run -i -t -v /data:/data –net host timonier/aria2 –dir=/data –enabl
 docker run -i -t -p 80:80 timonier/webui-aria2
 
 原文: http://blog.jialezi.net/?post=35
+
+
+- docker-zmirror
+
+https://hub.docker.com/r/fanvinga/docker-zmirror
+
+https://github.com/aploium/zmirror
+
+- you2php
+https://you2php.github.io/download.html
