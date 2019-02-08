@@ -1,7 +1,7 @@
 ---
 title: Launch a google-mirror using SONM platform
 layout: article
-key: 
+key: 20181215
 tags: Google-mirror, SONM, docker
 ---
 
