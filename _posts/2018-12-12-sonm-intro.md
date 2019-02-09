@@ -42,6 +42,10 @@ key stored in /etc/sonm/key-store
 
 `sonmcli tast start dealid  task.yaml`
 
+## Check worker's status
+
+`sonmcli worker status --worker-address=<worker address>`
+
 ## Logs
 
 `sonmcli logs dealid taskid`
