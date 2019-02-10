@@ -28,11 +28,23 @@ shadowsocks:
     - "8388:8388/tcp"
     - "8388:8388/udp"
   environment:
+    - SERVER_PORT="8355"
     - METHOD=aes-256-cfb
     - PASSWORD=12345
   restart: always
 ```
 
+Some environment variables can be found [here](https://github.com/sonmwalker/shadowsocks-libev/blob/master/docker/alpine/Dockerfile){:target=_blank}, include
+```
+ENV SERVER_ADDR 0.0.0.0
+ENV SERVER_ADDR_IPV6 ::0
+ENV SERVER_PORT 8388
+ENV PASSWORD=
+ENV METHOD      aes-256-gcm
+ENV TIMEOUT     300
+ENV DNS_ADDRS    8.8.8.8,8.8.4.4
+ENV ARGS=
+```
 Now you can use this shadowsocks sever by specifying the IP of the supplier.
 
 
