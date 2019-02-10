@@ -19,7 +19,7 @@ Hello everyone! In this tutorial, sonmwalker will show how to launch a shadowsoc
 
 `sonmcli task start dealid  task-shadowsocks.yaml`
 
-The `task-shadowsocks.yaml` file can be downloaded [here](https://github.com/sonmwalker/ss/blob/master/sonm/task-shadowsocks.yaml){:target=_blank}, it reads:
+The `task-shadowsocks.yaml` file can be downloaded [here](https://github.com/sonmwalker/ss/blob/master/shadow-socks/task-shadowsocks.yaml){:target=_blank}, it reads:
 
 ```
 shadowsocks:
