@@ -19,16 +19,16 @@ Hello everyone! In this tutorial, sonmwalker will show how to launch a shadowsoc
 
 `sonmcli task start dealid  task-shadowsocks.yaml`
 
-The `task-shadowsocks.yaml` file can be downloaded [here](https://github.com/sonmwalker/ss/blob/master/shadow-socks/task-shadowsocks.yaml){:target=_blank}, it reads:
+The `task-shadowsocks.yaml` file can be downloaded [here](https://github.com/sonmwalker/ss/blob/master/sonm/task-shadowsocks.yaml){:target=_blank}, it reads:
 
 ```
 shadowsocks:
   image: shadowsocks/shadowsocks-libev
   ports:
-    - "8388:8388/tcp"
-    - "8388:8388/udp"
+    - "12345:12345/tcp"
+    - "12345:12345/udp"
   environment:
-    - SERVER_PORT="8355"
+    - SERVER_PORT="12345"
     - METHOD=aes-256-cfb
     - PASSWORD=12345
   restart: always
@@ -38,7 +38,7 @@ Some environment variables can be found [here](https://github.com/sonmwalker/sha
 ```
 ENV SERVER_ADDR 0.0.0.0
 ENV SERVER_ADDR_IPV6 ::0
-ENV SERVER_PORT 8388
+ENV SERVER_PORT 12345
 ENV PASSWORD=
 ENV METHOD      aes-256-gcm
 ENV TIMEOUT     300
