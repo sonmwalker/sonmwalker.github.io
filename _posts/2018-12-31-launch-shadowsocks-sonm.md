@@ -56,7 +56,7 @@ ENV ARGS=
 ```
 Now you can use this shadowsocks sever by specifying the IP of the supplier.
 
-下载可以通过指定shadowsocks服务器的IP，端口，加密方法来搭梯子了。
+下面可以通过指定shadowsocks服务器的IP，端口，加密方法来搭梯子了。
 
 
 
