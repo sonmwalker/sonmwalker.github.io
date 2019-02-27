@@ -1,5 +1,5 @@
 ---
-title: Launch a google-mirror using SONM platform
+title: Launch a google-mirror using SONM platform / 使用SONM平台建立一个谷歌镜像网站
 layout: article
 key: 20181225
 tags: Google-mirror, SONM, docker
