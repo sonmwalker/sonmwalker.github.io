@@ -31,7 +31,7 @@ Consumer's wallet should be replaced by the one which has SONM tokens.
 
 `sudo bash -c "$(curl -s https://raw.githubusercontent.com/sonm-io/autodeploy/master/sonm-auto-deploy-supplier.sh)" -s YOUR_MASTER_ADDRESS`
 
-这一步将会为当前及其分配一个`worker address`,此地址会与`YOUR_MASTER_ADDRESS`关联，需要到SONM GUI WALLET确认`worker`。
+这一步将会为当前机器分配一个`worker address`,此地址会与`YOUR_MASTER_ADDRESS`关联，需要到SONM GUI WALLET确认`worker`。
 
 ## Create ask-plan / 服务提供端人工发布`ask-plan`
 
